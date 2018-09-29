@@ -1,5 +1,8 @@
 /**
- * jquery plugin -- jquery.slideunlock.js
+ * jquery plugin -- jquery.slideunlock.js 
+  * Version: 1.1.1
+  * Author: Dyang
+  * Description: 基于slideunlock修改，可在pc和移动端使用
  */
 ;(function($,window,document,undefined){
     function SliderUnlock(elm,options,success){
